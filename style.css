@@ -19,12 +19,12 @@ a:hover {
 }
 /*--header start here--*/
 .banner {
-    background: url(../images/books.jpg)no-repeat top;
+    background: url(books.jpg)no-repeat top;
     background-size: cover;
     min-height: 800px;
 }
 .banner1 {
-    background: url(../images/books.jpg)no-repeat top;
+    background: url(books.jpg)no-repeat top;
     background-size: cover;
     min-height:400px;
 }
@@ -50,21 +50,21 @@ a:hover {
     width: 32%;
 }
 span.location {
-    background: url(../images/pin.png)no-repeat;
+    background: url(pin.png)no-repeat;
     width: 15px;
     height:15px;
     display:block;
     margin: 0 auto;
 }
 span.tel-ph {
-    background: url(../images/email.png)no-repeat;
+    background: url(email.png)no-repeat;
     width:15px;
     height:15px;
     display:block;
     margin: 0 auto;
 }
 span.mess{
-	background: url(../images/telephone.png)no-repeat;
+	background: url(telephone.png)no-repeat;
     width:15px;
     height: 15px;
     display:block;
@@ -203,7 +203,7 @@ ul.nav.navbar-nav li a {
 /*--welcome grid end here--*/
 /*--testimonial strat here--*/
 .testimo {
-    background: url(../images/graduation.jpg)no-repeat;
+    background: url(graduation.jpg)no-repeat;
     background-size: cover;
     min-height:350px;
 }
@@ -237,7 +237,7 @@ ul.nav.navbar-nav li a {
    font-family: 'Kreon', serif;
 }
 span.quot1 {
-    background: url(../images/quot1.png)no-repeat;
+    background: url(quot1.png)no-repeat;
     width: 12%;
     height: 50px;
     display: inline-block;
@@ -265,7 +265,7 @@ span.quot1 {
 /*--admission end here--*/
 /*--course strat here--*/
 .course-left {
-    background: url(../images/h2.jpg)no-repeat;
+    background: url(h2.jpg)no-repeat;
     background-size: cover;
     min-height: 500px;
 }
@@ -677,13 +677,13 @@ figure.effect-bubba:hover p {
     border-bottom: 1px solid #ccc;
 }
 span.con-ph {
-    background: url(../images/phone.png)no-repeat;
+    background: url(phone.png)no-repeat;
     width: 35px;
     height: 30px;
     display: inline-block;
 }
 span.con-location {
-    background: url(../images/location.png)no-repeat;
+    background: url(location.png)no-repeat;
     width: 35px;
     height: 30px;
     display: inline-block;
